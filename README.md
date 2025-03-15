@@ -1,2 +1,1 @@
-# mi-repo-ejemplo
-Mi Repo de Ejemplo
+Mi Ejemplo de Git - CIFP Villa de Agüimes
